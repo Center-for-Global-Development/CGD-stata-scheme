@@ -3,7 +3,7 @@ A Stata scheme for CGD graphs
 
 This is a scheme which goes someway towards implementing CGD's [branding and data viz guidelines](https://centerforglobaldevelop.sharepoint.com/:b:/r/sites/fileshare/Shared%20Documents/NDrive/Communications/CGD%20Branding%20Materials/CGD-Data-Viz-Style-Guide.pdf?csf=1&web=1&e=H081DY) on Stata graphs. It is a useful default which will likely still need to be modified by the user. There are other versions of this script floating around, but the point of this repository is to serve as the canonical version. If you have a change or improvement to the script (very welcome!) please submit a pull request, if you have your own Github account, or contact Jeremy Gaines (jgaines@cgdev.org) to get the direct login info.
 
-*An R script which tries to implement the branding and data viz guide is available [here](https://github.com/Center-for-Global-Development/CGDRtheme).*
+*An R script which implements the branding and data viz guide is available [here](https://github.com/Center-for-Global-Development/CGDRtheme).*
 
 ## Instructions
 
